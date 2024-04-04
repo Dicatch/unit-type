@@ -1,6 +1,7 @@
 fun main () {
-   println(test())
+   println(volk())
    println()
+
 }
 
-fun test (){}
+fun volk (){}
