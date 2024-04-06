@@ -2,5 +2,5 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
 
-    println("Dragon's mother said \"No\"")
+    println("Dragon's mother said something")
 }
